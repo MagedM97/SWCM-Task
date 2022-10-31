@@ -16,5 +16,3 @@ y = 6;
 document.getElementById("demo").innerHTML = x + y;
 </script>
 
-</body>
-</html>
